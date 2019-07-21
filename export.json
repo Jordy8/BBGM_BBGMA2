@@ -2,7 +2,7 @@
   "version": 32,
   "meta": {
     "phaseText": "2020 preseason",
-    "name": "League 10"
+    "name": "League 20"
   },
   "awards": [],
   "schedule": [],
@@ -23,7 +23,7 @@
           "dpidsExcluded": []
         },
         {
-          "tid": 18,
+          "tid": 12,
           "pids": [],
           "pidsExcluded": [],
           "dpids": [],
@@ -77,6 +77,42 @@
         "exp": 2020
       },
       "rid": 4
+    },
+    {
+      "pid": 720,
+      "tid": 20,
+      "contract": {
+        "amount": 900,
+        "exp": 2020
+      },
+      "rid": 5
+    },
+    {
+      "pid": 514,
+      "tid": 20,
+      "contract": {
+        "amount": 5700,
+        "exp": 2020
+      },
+      "rid": 6
+    },
+    {
+      "pid": 584,
+      "tid": 20,
+      "contract": {
+        "amount": 1500,
+        "exp": 2020
+      },
+      "rid": 7
+    },
+    {
+      "pid": 172,
+      "tid": 20,
+      "contract": {
+        "amount": 8750,
+        "exp": 2020
+      },
+      "rid": 8
     }
   ],
   "teams": [
@@ -5725,6 +5761,151 @@
       ],
       "season": 2020,
       "eid": 32
+    },
+    {
+      "type": "release",
+      "text": "The <a href=\"/l/20/roster/OKC/2020\">Thunder</a> released <a href=\"/l/20/player/93\">Luguentz Dort</a>.",
+      "pids": [
+        93
+      ],
+      "tids": [
+        20
+      ],
+      "season": 2020,
+      "eid": 33
+    },
+    {
+      "type": "release",
+      "text": "The <a href=\"/l/20/roster/OKC/2020\">Thunder</a> released <a href=\"/l/20/player/720\">Donte Grantham</a>.",
+      "pids": [
+        720
+      ],
+      "tids": [
+        20
+      ],
+      "season": 2020,
+      "eid": 34
+    },
+    {
+      "type": "release",
+      "text": "The <a href=\"/l/20/roster/OKC/2020\">Thunder</a> released <a href=\"/l/20/player/514\">Patrick Patterson</a>.",
+      "pids": [
+        514
+      ],
+      "tids": [
+        20
+      ],
+      "season": 2020,
+      "eid": 35
+    },
+    {
+      "type": "release",
+      "text": "The <a href=\"/l/20/roster/OKC/2020\">Thunder</a> released <a href=\"/l/20/player/584\">Mike Muscala</a>.",
+      "pids": [
+        584
+      ],
+      "tids": [
+        20
+      ],
+      "season": 2020,
+      "eid": 36
+    },
+    {
+      "type": "release",
+      "text": "The <a href=\"/l/20/roster/OKC/2020\">Thunder</a> released <a href=\"/l/20/player/172\">C.J. Miles</a>.",
+      "pids": [
+        172
+      ],
+      "tids": [
+        20
+      ],
+      "season": 2020,
+      "eid": 37
+    },
+    {
+      "type": "release",
+      "text": "The <a href=\"/l/20/roster/UTA/2020\">Jazz</a> released <a href=\"/l/20/player/505\">Juwan Morgan</a>.",
+      "pids": [
+        505
+      ],
+      "tids": [
+        28
+      ],
+      "season": 2020,
+      "eid": 38
+    },
+    {
+      "type": "trade",
+      "text": "The <a href=\"/l/20/roster/HOU/2020\">Rockets</a> traded <a href=\"/l/20/player/375\">Eric Gordon</a>, <a href=\"/l/20/player/445\">P.J. Tucker</a>, a 2021 1st round pick (HOU), and a 2021 2nd round pick (HOU) to the <a href=\"/l/20/roster/MIN/2020\">Timberwolves</a> for <a href=\"/l/20/player/92\">Andrew Wiggins</a>.",
+      "pids": [
+        375,
+        445,
+        92
+      ],
+      "tids": [
+        10,
+        17
+      ],
+      "season": 2020,
+      "eid": 39
+    },
+    {
+      "type": "trade",
+      "text": "The <a href=\"/l/20/roster/NYK/2020\">Knicks</a> traded <a href=\"/l/20/player/284\">Chris Paul</a> and a 2023 1st round pick (NYK) to the <a href=\"/l/20/roster/DEN/2020\">Nuggets</a> for <a href=\"/l/20/player/526\">Gordon Hayward</a>.",
+      "pids": [
+        284,
+        526
+      ],
+      "tids": [
+        19,
+        7
+      ],
+      "season": 2020,
+      "eid": 40
+    },
+    {
+      "type": "trade",
+      "text": "The <a href=\"/l/20/roster/DEN/2020\">Nuggets</a> traded <a href=\"/l/20/player/416\">E'Twaun Moore</a>, a 2021 1st round pick (BOS), a 2021 1st round pick (LAL), a 2022 1st round pick (NOP), a 2023 1st round pick (DEN), a 2023 1st round pick (NOP), and a 2023 1st round pick (NYK) to the <a href=\"/l/20/roster/DAL/2020\">Mavericks</a> for <a href=\"/l/20/player/307\">Luka Doncic</a>.",
+      "pids": [
+        416,
+        307
+      ],
+      "tids": [
+        7,
+        6
+      ],
+      "season": 2020,
+      "eid": 41
+    },
+    {
+      "type": "trade",
+      "text": "The <a href=\"/l/20/roster/BOS/2020\">Celtics</a> traded <a href=\"/l/20/player/123\">Mason Plumlee</a>, a 2020 1st round pick (BOS), a 2020 2nd round pick (BOS), a 2022 1st round pick (BOS), a 2022 2nd round pick (BOS), a 2023 1st round pick (BOS), and a 2023 2nd round pick (BOS) to the <a href=\"/l/20/roster/DAL/2020\">Mavericks</a> for <a href=\"/l/20/player/789\">DeAndre Ayton</a> and <a href=\"/l/20/player/843\">Justin Jackson</a>.",
+      "pids": [
+        123,
+        789,
+        843
+      ],
+      "tids": [
+        1,
+        6
+      ],
+      "season": 2020,
+      "eid": 42
+    },
+    {
+      "type": "trade",
+      "text": "The <a href=\"/l/20/roster/DEN/2020\">Nuggets</a> traded <a href=\"/l/20/player/110\">Tacko Fall</a>, <a href=\"/l/20/player/817\">Brandon Ingram</a>, and a 2023 2nd round pick (WAS) to the <a href=\"/l/20/roster/LAC/2020\">Clippers</a> for <a href=\"/l/20/player/764\">Ivica Zubac</a> and a 2020 1st round pick (DEN).",
+      "pids": [
+        110,
+        817,
+        764
+      ],
+      "tids": [
+        7,
+        12
+      ],
+      "season": 2020,
+      "eid": 43
     }
   ],
   "gameAttributes": [
@@ -5838,7 +6019,7 @@
     },
     {
       "key": "leagueName",
-      "value": "League 10"
+      "value": "League 20"
     },
     {
       "key": "luxuryPayroll",
@@ -6011,7 +6192,7 @@
       "dpid": 1
     },
     {
-      "tid": 1,
+      "tid": 6,
       "originalTid": 1,
       "round": 1,
       "pick": 0,
@@ -6019,7 +6200,7 @@
       "dpid": 2
     },
     {
-      "tid": 1,
+      "tid": 6,
       "originalTid": 1,
       "round": 2,
       "pick": 0,
@@ -6107,7 +6288,7 @@
       "dpid": 13
     },
     {
-      "tid": 12,
+      "tid": 7,
       "originalTid": 7,
       "round": 1,
       "pick": 0,
@@ -6491,7 +6672,7 @@
       "dpid": 61
     },
     {
-      "tid": 7,
+      "tid": 6,
       "originalTid": 1,
       "round": 1,
       "pick": 0,
@@ -6635,7 +6816,7 @@
       "dpid": 79
     },
     {
-      "tid": 10,
+      "tid": 17,
       "originalTid": 10,
       "round": 1,
       "pick": 0,
@@ -6643,7 +6824,7 @@
       "dpid": 80
     },
     {
-      "tid": 10,
+      "tid": 17,
       "originalTid": 10,
       "round": 2,
       "pick": 0,
@@ -6683,7 +6864,7 @@
       "dpid": 85
     },
     {
-      "tid": 7,
+      "tid": 6,
       "originalTid": 13,
       "round": 1,
       "pick": 0,
@@ -6971,7 +7152,7 @@
       "dpid": 121
     },
     {
-      "tid": 1,
+      "tid": 6,
       "originalTid": 1,
       "round": 1,
       "pick": 0,
@@ -6979,7 +7160,7 @@
       "dpid": 122
     },
     {
-      "tid": 1,
+      "tid": 6,
       "originalTid": 1,
       "round": 2,
       "pick": 0,
@@ -7243,7 +7424,7 @@
       "dpid": 155
     },
     {
-      "tid": 7,
+      "tid": 6,
       "originalTid": 18,
       "round": 1,
       "pick": 0,
@@ -7451,7 +7632,7 @@
       "dpid": 181
     },
     {
-      "tid": 1,
+      "tid": 6,
       "originalTid": 1,
       "round": 1,
       "pick": 0,
@@ -7459,7 +7640,7 @@
       "dpid": 182
     },
     {
-      "tid": 1,
+      "tid": 6,
       "originalTid": 1,
       "round": 2,
       "pick": 0,
@@ -7547,7 +7728,7 @@
       "dpid": 193
     },
     {
-      "tid": 7,
+      "tid": 6,
       "originalTid": 7,
       "round": 1,
       "pick": 0,
@@ -7723,7 +7904,7 @@
       "dpid": 215
     },
     {
-      "tid": 7,
+      "tid": 6,
       "originalTid": 18,
       "round": 1,
       "pick": 0,
@@ -7739,7 +7920,7 @@
       "dpid": 217
     },
     {
-      "tid": 19,
+      "tid": 6,
       "originalTid": 19,
       "round": 1,
       "pick": 0,
@@ -7907,7 +8088,7 @@
       "dpid": 238
     },
     {
-      "tid": 7,
+      "tid": 12,
       "originalTid": 29,
       "round": 2,
       "pick": 0,
@@ -14481,7 +14662,7 @@
       "hof": false,
       "ptModifier": 1,
       "retiredYear": null,
-      "rosterOrder": 3,
+      "rosterOrder": 2,
       "watch": false,
       "yearsFreeAgent": 0,
       "stats": [
@@ -14831,16 +15012,17 @@
           "reb": 57,
           "spd": 68,
           "stre": 62,
-          "tp": 53,
+          "tp": 60,
           "season": 2020,
           "fuzz": -0.20694359460764655,
           "skills": [
+            "3",
             "B",
             "Dp",
             "Ps"
           ],
-          "ovr": 69,
-          "pot": 72,
+          "ovr": 70,
+          "pot": 75,
           "pos": "G"
         }
       ],
@@ -15015,11 +15197,11 @@
       ],
       "firstName": "D'Angelo",
       "lastName": "Russell",
-      "value": 69.89999999999999,
-      "valueNoPot": 69,
-      "valueFuzz": 69.89999999999999,
-      "valueNoPotFuzz": 69,
-      "valueWithContract": 69.89999999999999,
+      "value": 71.5,
+      "valueNoPot": 70,
+      "valueFuzz": 71.5,
+      "valueNoPotFuzz": 70,
+      "valueWithContract": 71.5,
       "salaries": [
         {
           "season": 2020,
@@ -22764,15 +22946,12 @@
           "reb": 35,
           "spd": 66,
           "stre": 63,
-          "tp": 49,
+          "tp": 53,
           "season": 2020,
           "fuzz": 0.5235206251361451,
-          "skills": [
-            "A",
-            "Dp"
-          ],
-          "ovr": 59,
-          "pot": 60,
+          "skills": [],
+          "ovr": 60,
+          "pot": 62,
           "pos": "SF"
         }
       ],
@@ -22992,11 +23171,11 @@
       ],
       "firstName": "T.J.",
       "lastName": "Warren",
-      "value": 59.1,
-      "valueNoPot": 59,
-      "valueFuzz": 59.1,
-      "valueNoPotFuzz": 59,
-      "valueWithContract": 59.1,
+      "value": 60.2,
+      "valueNoPot": 60,
+      "valueFuzz": 60.2,
+      "valueNoPotFuzz": 60,
+      "valueWithContract": 60.2,
       "salaries": [
         {
           "season": 2020,
@@ -25980,7 +26159,7 @@
       "pid": 91
     },
     {
-      "tid": 17,
+      "tid": 10,
       "name": "Andrew Wiggins",
       "ratings": [
         {
@@ -26179,10 +26358,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 10,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        17
+        17,
+        10
       ],
       "firstName": "Andrew",
       "lastName": "Wiggins",
@@ -26213,7 +26437,7 @@
       "pid": 92
     },
     {
-      "tid": 20,
+      "tid": -1,
       "name": "Luguentz Dort",
       "ratings": [
         {
@@ -26251,7 +26475,7 @@
       "imgURL": "https://i.imgur.com/7TxmHjR.png",
       "contract": {
         "amount": 900,
-        "exp": 2020
+        "exp": 2021
       },
       "draft": {
         "round": 0,
@@ -26323,42 +26547,42 @@
         "color": "#aa816f"
       },
       "freeAgentMood": [
+        0.8389068443591081,
+        1.4015305553556412,
+        0.8427931194226126,
+        0.2039220479305337,
+        0,
+        0.9033927292725994,
         0,
         0,
+        1.7453633196265803,
+        0,
+        0.20117449018723266,
+        1.7646409207264049,
+        0,
+        1.759290179161113,
+        0.321118918405215,
+        0.8558111957056618,
+        0.6668296205313051,
+        1.166410347451575,
+        2.202863837541036,
+        0.7964400216797807,
+        0,
+        0.5262766754703825,
+        1.5023059273343626,
         0,
         0,
+        0.4435478372251468,
+        2.0855222395563606,
+        0.5724739928368906,
         0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
+        1.0627535082251378
       ],
       "gamesUntilTradable": 0,
       "hof": false,
       "ptModifier": 1,
       "retiredYear": null,
-      "rosterOrder": 15,
+      "rosterOrder": 10,
       "watch": false,
       "yearsFreeAgent": 0,
       "stats": [
@@ -26417,12 +26641,7 @@
       "valueFuzz": 41.8,
       "valueNoPotFuzz": 34,
       "valueWithContract": 41.8,
-      "salaries": [
-        {
-          "season": 2020,
-          "amount": 900
-        }
-      ],
+      "salaries": [],
       "relatives": [],
       "pid": 93
     },
@@ -26571,9 +26790,9 @@
       ],
       "gamesUntilTradable": 0,
       "hof": false,
-      "ptModifier": 1,
+      "ptModifier": 0.75,
       "retiredYear": null,
-      "rosterOrder": 3,
+      "rosterOrder": 15,
       "watch": false,
       "yearsFreeAgent": 0,
       "stats": [
@@ -29424,7 +29643,7 @@
       "pid": 109
     },
     {
-      "tid": 7,
+      "tid": 12,
       "name": "Tacko Fall",
       "ratings": [
         {
@@ -29664,11 +29883,56 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 12,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
         1,
-        7
+        7,
+        12
       ],
       "firstName": "Tacko",
       "lastName": "Fall",
@@ -31904,7 +32168,7 @@
       "pid": 122
     },
     {
-      "tid": 1,
+      "tid": 6,
       "name": "Mason Plumlee",
       "ratings": [
         {
@@ -32154,11 +32418,56 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 6,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
         7,
-        1
+        1,
+        6
       ],
       "firstName": "Mason",
       "lastName": "Plumlee",
@@ -34528,16 +34837,17 @@
           "reb": 60,
           "spd": 71,
           "stre": 70,
-          "tp": 53,
+          "tp": 60,
           "season": 2020,
           "fuzz": -0.5513156386195224,
           "skills": [
+            "3",
             "B",
             "Dp",
             "Ps"
           ],
-          "ovr": 72,
-          "pot": 72,
+          "ovr": 73,
+          "pot": 73,
           "pos": "PG"
         }
       ],
@@ -34801,11 +35111,11 @@
       ],
       "firstName": "Kemba",
       "lastName": "Walker",
-      "value": 70.2,
-      "valueNoPot": 72,
-      "valueFuzz": 70.2,
-      "valueNoPotFuzz": 72,
-      "valueWithContract": 70.2,
+      "value": 71.175,
+      "valueNoPot": 73,
+      "valueFuzz": 71.175,
+      "valueNoPotFuzz": 73,
+      "valueWithContract": 71.175,
       "salaries": [
         {
           "season": 2020,
@@ -38190,9 +38500,9 @@
       ],
       "gamesUntilTradable": 0,
       "hof": false,
-      "ptModifier": 1,
+      "ptModifier": 0.75,
       "retiredYear": null,
-      "rosterOrder": 12,
+      "rosterOrder": 16,
       "watch": false,
       "yearsFreeAgent": 0,
       "stats": [
@@ -38883,14 +39193,12 @@
           "reb": 29,
           "spd": 39,
           "stre": 18,
-          "tp": 94,
+          "tp": 44,
           "season": 2020,
           "fuzz": 1.8811101768774066,
-          "skills": [
-            "3"
-          ],
-          "ovr": 29,
-          "pot": 30,
+          "skills": [],
+          "ovr": 24,
+          "pot": 25,
           "pos": "GF"
         }
       ],
@@ -39018,11 +39326,11 @@
       "statsTids": [],
       "firstName": "Jordan",
       "lastName": "Sibert",
-      "value": 29,
-      "valueNoPot": 29,
-      "valueFuzz": 29,
-      "valueNoPotFuzz": 29,
-      "valueWithContract": 29,
+      "value": 24,
+      "valueNoPot": 24,
+      "valueFuzz": 24,
+      "valueNoPotFuzz": 24,
+      "valueWithContract": 24,
       "salaries": [],
       "relatives": [],
       "pid": 159
@@ -40302,10 +40610,11 @@
           "reb": 53,
           "spd": 62,
           "stre": 64,
-          "tp": 50,
+          "tp": 60,
           "season": 2020,
           "fuzz": -0.03916859827591157,
           "skills": [
+            "3",
             "B",
             "Ps"
           ],
@@ -41072,7 +41381,7 @@
       "pid": 171
     },
     {
-      "tid": 20,
+      "tid": -1,
       "name": "C.J. Miles",
       "ratings": [
         {
@@ -41110,8 +41419,8 @@
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/101139.png",
       "contract": {
-        "amount": 8750,
-        "exp": 2020
+        "amount": 900,
+        "exp": 2022
       },
       "draft": {
         "round": 2,
@@ -41184,41 +41493,41 @@
       },
       "freeAgentMood": [
         0,
+        2.1708862592839373,
+        0.7783157883863874,
+        0.20393074480974516,
+        0.8173601857510858,
+        1.1900447492942683,
+        1.0084623105194586,
+        0.24266609501187908,
         0,
         0,
+        0.5266246413637932,
+        1.3580672955795112,
+        0.3847381317249359,
+        1.3354129396071766,
+        1.2725212427297452,
+        0.6330429286195854,
+        0.7234166108563906,
         0,
+        1.780449725262007,
         0,
+        0.18624142507278998,
+        0.8205210597058958,
         0,
+        0.39615081698771215,
+        0.5069037323605001,
         0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
+        0.4571438785947003,
+        1.6583381476354653,
+        0.29817960274608235,
+        0.2462255853717467
       ],
       "gamesUntilTradable": 0,
       "hof": false,
       "ptModifier": 1,
       "retiredYear": null,
-      "rosterOrder": 6,
+      "rosterOrder": 14,
       "watch": false,
       "yearsFreeAgent": 0,
       "stats": [
@@ -51946,7 +52255,7 @@
           "reb": 44,
           "spd": 71,
           "stre": 66,
-          "tp": 88,
+          "tp": 89,
           "season": 2020,
           "fuzz": 1.7387889589174206,
           "skills": [
@@ -52180,7 +52489,7 @@
           "reb": 45,
           "spd": 60,
           "stre": 65,
-          "tp": 92,
+          "tp": 90,
           "season": 2020,
           "fuzz": 0.9254167583643413,
           "skills": [
@@ -55079,7 +55388,7 @@
           "reb": 70,
           "spd": 73,
           "stre": 61,
-          "tp": 61,
+          "tp": 65,
           "season": 2020,
           "fuzz": -1.1675176422908065,
           "skills": [
@@ -55091,8 +55400,8 @@
             "Ps",
             "R"
           ],
-          "ovr": 79,
-          "pot": 79,
+          "ovr": 80,
+          "pot": 80,
           "pos": "SG"
         }
       ],
@@ -55288,11 +55597,11 @@
       ],
       "firstName": "James",
       "lastName": "Harden",
-      "value": 77.025,
-      "valueNoPot": 79.00000000000001,
-      "valueFuzz": 77.025,
-      "valueNoPotFuzz": 79.00000000000001,
-      "valueWithContract": 77.025,
+      "value": 78,
+      "valueNoPot": 80,
+      "valueFuzz": 78,
+      "valueNoPotFuzz": 80,
+      "valueWithContract": 78,
       "salaries": [
         {
           "season": 2020,
@@ -60526,9 +60835,9 @@
       ],
       "gamesUntilTradable": 0,
       "hof": false,
-      "ptModifier": 1,
+      "ptModifier": 0.75,
       "retiredYear": null,
-      "rosterOrder": 5,
+      "rosterOrder": 13,
       "watch": false,
       "yearsFreeAgent": 0,
       "stats": [
@@ -62115,7 +62424,7 @@
       "pid": 283
     },
     {
-      "tid": 19,
+      "tid": 7,
       "name": "Chris Paul",
       "ratings": [
         {
@@ -62393,11 +62702,56 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 7,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
         20,
-        19
+        19,
+        7
       ],
       "firstName": "Chris",
       "lastName": "Paul",
@@ -62733,7 +63087,7 @@
       "hof": false,
       "ptModifier": 1,
       "retiredYear": null,
-      "rosterOrder": 9,
+      "rosterOrder": 6,
       "watch": false,
       "yearsFreeAgent": 0,
       "stats": [
@@ -65680,7 +66034,7 @@
           "reb": 49,
           "spd": 64,
           "stre": 60,
-          "tp": 66,
+          "tp": 68,
           "season": 2020,
           "fuzz": -2.8192725342362444,
           "skills": [
@@ -65689,7 +66043,7 @@
             "Ps"
           ],
           "ovr": 72,
-          "pot": 78,
+          "pot": 77,
           "pos": "SG"
         }
       ],
@@ -65864,11 +66218,11 @@
       ],
       "firstName": "Devin",
       "lastName": "Booker",
-      "value": 74.4,
+      "value": 74,
       "valueNoPot": 72,
-      "valueFuzz": 74.4,
+      "valueFuzz": 74,
       "valueNoPotFuzz": 72,
-      "valueWithContract": 74.4,
+      "valueWithContract": 74,
       "salaries": [
         {
           "season": 2020,
@@ -66277,7 +66631,7 @@
       "pid": 306
     },
     {
-      "tid": 6,
+      "tid": 7,
       "name": "Luka Doncic",
       "ratings": [
         {
@@ -66295,7 +66649,7 @@
           "reb": 77,
           "spd": 72,
           "stre": 72,
-          "tp": 45,
+          "tp": 54,
           "season": 2020,
           "fuzz": 1.9895392945745796,
           "skills": [
@@ -66307,8 +66661,8 @@
             "Ps",
             "R"
           ],
-          "ovr": 70,
-          "pot": 78,
+          "ovr": 71,
+          "pot": 80,
           "pos": "SG"
         }
       ],
@@ -66481,18 +66835,63 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 7,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        6
+        6,
+        7
       ],
       "firstName": "Luka",
       "lastName": "Doncic",
-      "value": 74.8,
-      "valueNoPot": 70,
-      "valueFuzz": 74.8,
-      "valueNoPotFuzz": 70,
-      "valueWithContract": 74.8,
+      "value": 76.4,
+      "valueNoPot": 71,
+      "valueFuzz": 76.4,
+      "valueNoPotFuzz": 71,
+      "valueWithContract": 76.4,
       "salaries": [
         {
           "season": 2020,
@@ -75093,7 +75492,7 @@
       },
       "ptModifier": 1,
       "retiredYear": null,
-      "rosterOrder": 3,
+      "rosterOrder": 8,
       "watch": false,
       "yearsFreeAgent": 0,
       "stats": [
@@ -79211,7 +79610,7 @@
       "pid": 374
     },
     {
-      "tid": 10,
+      "tid": 17,
       "name": "Eric Gordon",
       "ratings": [
         {
@@ -79409,10 +79808,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 17,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        10
+        10,
+        17
       ],
       "firstName": "Eric",
       "lastName": "Gordon",
@@ -79927,7 +80371,7 @@
           "dnk": 71,
           "drb": 59,
           "endu": 55,
-          "fg": 58,
+          "fg": 60,
           "ft": 61,
           "hgt": 44,
           "ins": 60,
@@ -79937,7 +80381,7 @@
           "reb": 50,
           "spd": 58,
           "stre": 62,
-          "tp": 59,
+          "tp": 60,
           "season": 2020,
           "fuzz": 0.44974317667273844,
           "skills": [
@@ -82946,7 +83390,7 @@
       "hof": false,
       "ptModifier": 1,
       "retiredYear": null,
-      "rosterOrder": 2,
+      "rosterOrder": 0,
       "watch": false,
       "yearsFreeAgent": 0,
       "stats": [
@@ -87205,7 +87649,7 @@
       "pid": 415
     },
     {
-      "tid": 7,
+      "tid": 6,
       "name": "E'Twaun Moore",
       "ratings": [
         {
@@ -87440,11 +87884,56 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 6,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
         18,
-        7
+        7,
+        6
       ],
       "firstName": "E'Twaun",
       "lastName": "Moore",
@@ -88842,7 +89331,7 @@
       "hof": false,
       "ptModifier": 1,
       "retiredYear": null,
-      "rosterOrder": 6,
+      "rosterOrder": 9,
       "watch": false,
       "yearsFreeAgent": 0,
       "stats": [
@@ -90037,7 +90526,7 @@
       "hof": false,
       "ptModifier": 1,
       "retiredYear": null,
-      "rosterOrder": 12,
+      "rosterOrder": 7,
       "watch": false,
       "yearsFreeAgent": 0,
       "stats": [
@@ -92995,7 +93484,7 @@
       "pid": 444
     },
     {
-      "tid": 10,
+      "tid": 17,
       "name": "P.J. Tucker",
       "ratings": [
         {
@@ -93188,10 +93677,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 17,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        10
+        10,
+        17
       ],
       "firstName": "P.J.",
       "lastName": "Tucker",
@@ -93982,9 +94516,9 @@
       ],
       "gamesUntilTradable": 0,
       "hof": false,
-      "ptModifier": 1,
+      "ptModifier": 0.75,
       "retiredYear": null,
-      "rosterOrder": 10,
+      "rosterOrder": 18,
       "watch": false,
       "yearsFreeAgent": 0,
       "stats": [
@@ -94554,14 +95088,14 @@
           "reb": 33,
           "spd": 52,
           "stre": 41,
-          "tp": 85,
+          "tp": 71,
           "season": 2020,
           "fuzz": 1.557561270146004,
           "skills": [
             "3"
           ],
-          "ovr": 50,
-          "pot": 50,
+          "ovr": 48,
+          "pot": 48,
           "pos": "GF"
         }
       ],
@@ -94736,11 +95270,11 @@
       ],
       "firstName": "Gerald",
       "lastName": "Green",
-      "value": 40,
-      "valueNoPot": 50,
-      "valueFuzz": 40,
-      "valueNoPotFuzz": 50,
-      "valueWithContract": 40,
+      "value": 38.400000000000006,
+      "valueNoPot": 48,
+      "valueFuzz": 38.400000000000006,
+      "valueNoPotFuzz": 48,
+      "valueWithContract": 38.400000000000006,
       "salaries": [
         {
           "season": 2020,
@@ -95549,14 +96083,14 @@
           "reb": 48,
           "spd": 61,
           "stre": 65,
-          "tp": 66,
+          "tp": 70,
           "season": 2020,
           "fuzz": 1.46842749341136,
           "skills": [
             "3"
           ],
           "ovr": 64,
-          "pot": 65,
+          "pot": 64,
           "pos": "G"
         }
       ],
@@ -96578,7 +97112,7 @@
           "reb": 60,
           "spd": 69,
           "stre": 45,
-          "tp": 60,
+          "tp": 65,
           "season": 2020,
           "fuzz": -0.6187339512963019,
           "skills": [
@@ -96586,8 +97120,8 @@
             "B",
             "Ps"
           ],
-          "ovr": 75,
-          "pot": 75,
+          "ovr": 76,
+          "pot": 76,
           "pos": "PG"
         }
       ],
@@ -96767,11 +97301,11 @@
       ],
       "firstName": "Damian",
       "lastName": "Lillard",
-      "value": 75,
-      "valueNoPot": 75,
-      "valueFuzz": 75,
-      "valueNoPotFuzz": 75,
-      "valueWithContract": 75,
+      "value": 76,
+      "valueNoPot": 76,
+      "valueFuzz": 76,
+      "valueNoPotFuzz": 76,
+      "valueWithContract": 76,
       "salaries": [
         {
           "season": 2020,
@@ -101454,7 +101988,7 @@
           "reb": 72,
           "spd": 76,
           "stre": 77,
-          "tp": 74,
+          "tp": 75,
           "season": 2020,
           "fuzz": 1.3632125841182088,
           "skills": [
@@ -101467,7 +102001,7 @@
             "R"
           ],
           "ovr": 78,
-          "pot": 80,
+          "pot": 79,
           "pos": "SF"
         }
       ],
@@ -103411,17 +103945,18 @@
           "reb": 47,
           "spd": 81,
           "stre": 70,
-          "tp": 55,
+          "tp": 59,
           "season": 2020,
           "fuzz": 0.131929396133053,
           "skills": [
+            "3",
             "A",
             "B",
             "Dp",
             "Ps"
           ],
-          "ovr": 70,
-          "pot": 80,
+          "ovr": 71,
+          "pot": 75,
           "pos": "SG"
         }
       ],
@@ -103596,11 +104131,11 @@
       ],
       "firstName": "Donovan",
       "lastName": "Mitchell",
-      "value": 74,
-      "valueNoPot": 70,
-      "valueFuzz": 74,
-      "valueNoPotFuzz": 70,
-      "valueWithContract": 74,
+      "value": 72.6,
+      "valueNoPot": 71,
+      "valueFuzz": 72.6,
+      "valueNoPotFuzz": 71,
+      "valueWithContract": 72.6,
       "salaries": [
         {
           "season": 2020,
@@ -104610,7 +105145,7 @@
       "pid": 504
     },
     {
-      "tid": 28,
+      "tid": -1,
       "name": "Juwan Morgan",
       "ratings": [
         {
@@ -104648,7 +105183,7 @@
       "imgURL": "http://a.espncdn.com/combiner/i?img=/i/headshots/mens-college-basketball/players/full/3934721.png",
       "contract": {
         "amount": 900,
-        "exp": 2020
+        "exp": 2021
       },
       "draft": {
         "round": 0,
@@ -104720,36 +105255,36 @@
         "color": "#ce967d"
       },
       "freeAgentMood": [
+        0.9211522457861645,
+        0.7541269917304536,
+        0.23068414057193554,
         0,
+        0.8000498681017019,
+        1.817623150592556,
+        0.9646281767646284,
+        1.1546813902544368,
+        0.006778576597738395,
+        1.5396647703893924,
+        0.10764889589846371,
+        0.1297782802077574,
         0,
+        0.29886549951252517,
+        1.8190161490896206,
+        0.2087383340736122,
+        1.423249396629892,
+        0.6021624650916916,
+        1.2100567569328164,
         0,
+        0.3559109261236926,
+        1.6188820366704886,
+        0.9382891138921233,
+        0.2599763103393015,
+        0.9028704341010554,
+        1.333119968635548,
+        1.401906813335381,
         0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
+        0.030658785566625157,
+        0.6908961556470625
       ],
       "gamesUntilTradable": 0,
       "hof": false,
@@ -104814,12 +105349,7 @@
       "valueFuzz": 39,
       "valueNoPotFuzz": 35,
       "valueWithContract": 39,
-      "salaries": [
-        {
-          "season": 2020,
-          "amount": 900
-        }
-      ],
+      "salaries": [],
       "relatives": [],
       "pid": 505
     },
@@ -106455,7 +106985,7 @@
       "pid": 513
     },
     {
-      "tid": 20,
+      "tid": -1,
       "name": "Patrick Patterson",
       "ratings": [
         {
@@ -106491,8 +107021,8 @@
       },
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202335.png",
       "contract": {
-        "amount": 5700,
-        "exp": 2020
+        "amount": 900,
+        "exp": 2021
       },
       "draft": {
         "round": 1,
@@ -106564,42 +107094,42 @@
         "color": "#ce967d"
       },
       "freeAgentMood": [
+        1.5198187280130793,
+        1.6024946680330514,
+        0.14378430120492602,
+        1.2249650078697534,
         0,
+        1.500031088543926,
+        0.32255609538454694,
+        1.623616779408381,
+        1.384013861820981,
         0,
+        0.2206659218907182,
         0,
+        0.8958588804259098,
         0,
+        1.7561701884332468,
+        1.2060958982900318,
+        1.3395222707197634,
+        1.2697162615645576,
+        0.6505781971194791,
+        0.41933332702896875,
         0,
+        1.9863991130107255,
+        0.5976129942593597,
+        1.3437724502562873,
+        0.9300535775330804,
+        1.274290397244907,
+        1.0707176432003374,
+        1.2307789413181633,
         0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
+        1.2189552088012647
       ],
       "gamesUntilTradable": 0,
       "hof": false,
       "ptModifier": 1,
       "retiredYear": null,
-      "rosterOrder": 7,
+      "rosterOrder": 19,
       "watch": false,
       "yearsFreeAgent": 0,
       "stats": [
@@ -107246,7 +107776,7 @@
       "hof": false,
       "ptModifier": 1,
       "retiredYear": null,
-      "rosterOrder": 7,
+      "rosterOrder": 3,
       "watch": false,
       "yearsFreeAgent": 0,
       "stats": [
@@ -108753,7 +109283,7 @@
       "pid": 524
     },
     {
-      "tid": 7,
+      "tid": 19,
       "name": "Gordon Hayward",
       "ratings": [
         {
@@ -109078,11 +109608,56 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 19,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
         1,
-        7
+        7,
+        19
       ],
       "firstName": "Gordon",
       "lastName": "Hayward",
@@ -110313,12 +110888,11 @@
           "reb": 54,
           "spd": 59,
           "stre": 47,
-          "tp": 71,
+          "tp": 77,
           "season": 2020,
           "fuzz": 2.238001258899974,
           "skills": [
             "3",
-            "B",
             "Ps"
           ],
           "ovr": 61,
@@ -111020,17 +111594,18 @@
           "reb": 48,
           "spd": 70,
           "stre": 70,
-          "tp": 50,
+          "tp": 60,
           "season": 2020,
           "fuzz": -0.5057264044200123,
           "skills": [
+            "3",
             "A",
             "B",
             "Dp",
             "Ps"
           ],
-          "ovr": 70,
-          "pot": 72,
+          "ovr": 71,
+          "pot": 73,
           "pos": "SG"
         }
       ],
@@ -111205,11 +111780,11 @@
       ],
       "firstName": "Bradley",
       "lastName": "Beal",
-      "value": 70.2,
-      "valueNoPot": 70,
-      "valueFuzz": 70.2,
-      "valueNoPotFuzz": 70,
-      "valueWithContract": 70.2,
+      "value": 71.2,
+      "valueNoPot": 71,
+      "valueFuzz": 71.2,
+      "valueNoPotFuzz": 71,
+      "valueWithContract": 71.2,
       "salaries": [
         {
           "season": 2020,
@@ -113704,7 +114279,7 @@
           "dnk": 60,
           "ft": 30,
           "fg": 45,
-          "tp": 100,
+          "tp": 22,
           "diq": 58,
           "oiq": 53,
           "drb": 34,
@@ -113713,12 +114288,11 @@
           "season": 2020,
           "fuzz": 1.4676779625563734,
           "skills": [
-            "3",
             "Di",
             "Po"
           ],
-          "ovr": 58,
-          "pot": 58,
+          "ovr": 49,
+          "pot": 49,
           "pos": "FC"
         }
       ],
@@ -113845,11 +114419,11 @@
       "yearsFreeAgent": 0,
       "stats": [],
       "statsTids": [],
-      "value": 46.400000000000006,
-      "valueNoPot": 58,
-      "valueFuzz": 46.400000000000006,
-      "valueNoPotFuzz": 58,
-      "valueWithContract": 46.400000000000006,
+      "value": 39.2,
+      "valueNoPot": 49,
+      "valueFuzz": 39.2,
+      "valueNoPotFuzz": 49,
+      "valueWithContract": 39.2,
       "salaries": [],
       "relatives": [],
       "pid": 551
@@ -119018,7 +119592,7 @@
       "pid": 583
     },
     {
-      "tid": 20,
+      "tid": -1,
       "name": "Mike Muscala",
       "ratings": [
         {
@@ -119056,8 +119630,8 @@
       },
       "imgURL": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203488.png",
       "contract": {
-        "amount": 1500,
-        "exp": 2020
+        "amount": 7850,
+        "exp": 2022
       },
       "draft": {
         "round": 2,
@@ -119130,41 +119704,41 @@
       },
       "freeAgentMood": [
         0,
+        0.8681295563411011,
+        1.2978820347347915,
+        0,
+        1.3062312290053828,
+        0,
+        0.5953973709230043,
+        0,
+        0.4774819872931586,
+        0,
+        1.3920359840408731,
+        0.9568448516309955,
+        0.3197410057391873,
+        0,
+        0.08859890936625103,
+        1.2875392627055504,
         0,
         0,
+        1.00752656824838,
         0,
+        1.8679285167614321,
+        0.5927499996158774,
         0,
+        1.057727847624643,
         0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
+        0.8302982145929501,
+        1.4561520036501616,
+        0.19579039503016582,
+        1.8697644793378982,
+        1.3170442599000027
       ],
       "gamesUntilTradable": 0,
       "hof": false,
       "ptModifier": 1,
       "retiredYear": null,
-      "rosterOrder": 5,
+      "rosterOrder": 17,
       "watch": false,
       "yearsFreeAgent": 0,
       "stats": [
@@ -138387,7 +138961,7 @@
       "hof": false,
       "ptModifier": 1,
       "retiredYear": null,
-      "rosterOrder": 13,
+      "rosterOrder": 5,
       "watch": false,
       "yearsFreeAgent": 0,
       "stats": [
@@ -144344,7 +144918,7 @@
       "hof": false,
       "ptModifier": 1,
       "retiredYear": null,
-      "rosterOrder": 13,
+      "rosterOrder": 4,
       "watch": false,
       "yearsFreeAgent": 0,
       "stats": [
@@ -145660,7 +146234,7 @@
       "pid": 719
     },
     {
-      "tid": 20,
+      "tid": -1,
       "name": "Donte Grantham",
       "ratings": [
         {
@@ -145804,7 +146378,7 @@
       "hof": false,
       "ptModifier": 1,
       "retiredYear": null,
-      "rosterOrder": 8,
+      "rosterOrder": 20,
       "watch": false,
       "yearsFreeAgent": 0,
       "stats": [
@@ -149902,7 +150476,7 @@
       "hof": false,
       "ptModifier": 1,
       "retiredYear": null,
-      "rosterOrder": 4,
+      "rosterOrder": 1,
       "watch": false,
       "yearsFreeAgent": 0,
       "stats": [
@@ -154117,7 +154691,7 @@
       "pid": 763
     },
     {
-      "tid": 12,
+      "tid": 7,
       "name": "Ivica Zubac",
       "ratings": [
         {
@@ -154400,11 +154974,56 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 7,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
         12,
-        28
+        28,
+        7
       ],
       "firstName": "Ivica",
       "lastName": "Zubac",
@@ -154937,13 +155556,13 @@
           "reb": 37,
           "spd": 60,
           "stre": 38,
-          "tp": 78,
+          "tp": 66,
           "season": 2020,
           "fuzz": 2.6700845642547204,
           "skills": [
             "3"
           ],
-          "ovr": 54,
+          "ovr": 53,
           "pot": 60,
           "pos": "G"
         }
@@ -155208,11 +155827,11 @@
       ],
       "firstName": "Landry",
       "lastName": "Shamet",
-      "value": 56.4,
-      "valueNoPot": 54,
-      "valueFuzz": 56.4,
-      "valueNoPotFuzz": 54,
-      "valueWithContract": 56.4,
+      "value": 55.8,
+      "valueNoPot": 53,
+      "valueFuzz": 55.8,
+      "valueNoPotFuzz": 53,
+      "valueWithContract": 55.8,
       "salaries": [
         {
           "season": 2020,
@@ -158250,7 +158869,7 @@
       "hof": false,
       "ptModifier": 1,
       "retiredYear": null,
-      "rosterOrder": 10,
+      "rosterOrder": 12,
       "watch": false,
       "yearsFreeAgent": 0,
       "stats": [
@@ -159197,7 +159816,7 @@
       "pid": 788
     },
     {
-      "tid": 6,
+      "tid": 1,
       "name": "DeAndre Ayton",
       "ratings": [
         {
@@ -159438,11 +160057,56 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 1,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
         23,
-        6
+        6,
+        1
       ],
       "firstName": "DeAndre",
       "lastName": "Ayton",
@@ -164093,14 +164757,14 @@
           "reb": 56,
           "spd": 68,
           "stre": 60,
-          "tp": 51,
+          "tp": 54,
           "season": 2020,
           "fuzz": 0.8756966904008427,
           "skills": [
             "Ps"
           ],
           "ovr": 65,
-          "pot": 72,
+          "pot": 71,
           "pos": "G"
         }
       ],
@@ -164297,11 +164961,11 @@
       ],
       "firstName": "Jamal",
       "lastName": "Murray",
-      "value": 67.8,
+      "value": 67.4,
       "valueNoPot": 65,
-      "valueFuzz": 67.8,
+      "valueFuzz": 67.4,
       "valueNoPotFuzz": 65,
-      "valueWithContract": 67.8,
+      "valueWithContract": 67.4,
       "salaries": [
         {
           "season": 2020,
@@ -164489,7 +165153,7 @@
       "pid": 816
     },
     {
-      "tid": 7,
+      "tid": 12,
       "name": "Brandon Ingram",
       "ratings": [
         {
@@ -164724,11 +165388,56 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 12,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
         18,
-        7
+        7,
+        12
       ],
       "firstName": "Brandon",
       "lastName": "Ingram",
@@ -165541,7 +166250,7 @@
           "reb": 88,
           "spd": 37,
           "stre": 70,
-          "tp": 32,
+          "tp": 45,
           "season": 2020,
           "fuzz": 2.982416068486918,
           "skills": [
@@ -165549,8 +166258,8 @@
             "Po",
             "R"
           ],
-          "ovr": 60,
-          "pot": 65,
+          "ovr": 61,
+          "pot": 66,
           "pos": "PF"
         }
       ],
@@ -165747,11 +166456,11 @@
       ],
       "firstName": "Domantas",
       "lastName": "Sabonis",
-      "value": 61.5,
-      "valueNoPot": 60,
-      "valueFuzz": 61.5,
-      "valueNoPotFuzz": 60,
-      "valueWithContract": 61.5,
+      "value": 62.5,
+      "valueNoPot": 61,
+      "valueFuzz": 62.5,
+      "valueNoPotFuzz": 61,
+      "valueWithContract": 62.5,
       "salaries": [
         {
           "season": 2020,
@@ -169277,7 +169986,7 @@
       "pid": 842
     },
     {
-      "tid": 6,
+      "tid": 1,
       "name": "Justin Jackson",
       "pos": "SF",
       "hgt": 80,
@@ -169556,11 +170265,56 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 1,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
         6,
-        28
+        28,
+        1
       ],
       "firstName": "Justin",
       "lastName": "Jackson",
